@@ -13,6 +13,8 @@ import '../blocks/CollectionView/CollectionView.builder'
 import '../blocks/ProductView/ProductView.builder'
 import '../blocks/CloudinaryImage/CloudinaryImage.builder'
 import '../blocks/Text/Text.builder'
+import '../blocks/CountDown/CountDown.Builder'
+import '../blocks/MarqueeText/MarqueeText.Builder'
 
 Builder.register('insertMenu', {
   name: 'Shopify Collections Components',

@@ -11,7 +11,7 @@ Builder.registerComponent(Text, {
     {
       name: 'headline',
       type: 'string',
-      defaultValue: 'This is a text element',
+      defaultValue: 'This is a text component',
     },
     {
       name: 'description',

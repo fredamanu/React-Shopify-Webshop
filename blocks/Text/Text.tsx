@@ -5,13 +5,13 @@ interface IProps {
   description: string
 }
 
-const Test = ({ headline, description }: IProps) => {
+const Text = ({ headline, description }: IProps) => {
   return (
     <div>
-      <h1 style={{ fontSize: '2em', fontWeight: 'bold' }}>{headline}</h1>
+      <h1 style={{ fontSize: '35px', fontWeight: 'bold' }}>{headline}</h1>
       <h5>{description}</h5>
     </div>
   )
 }
 
-export default Test
+export default Text

@@ -20,7 +20,7 @@
       "primary": "rgba(71, 71, 71, 1)"
     },
     "siteSettings": {
-      "logo": { "text": "Headless" },
+      "logo": { "text": "Freda's Boutique" },
       "navigationLinks": [
         { "link": "/faq", "title": "FAQ" },
         { "link": "/about-us", "title": "About us" }
